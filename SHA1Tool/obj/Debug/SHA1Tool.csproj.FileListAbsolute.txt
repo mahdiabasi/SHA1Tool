@@ -1,0 +1,8 @@
+C:\Users\M\Documents\Visual Studio 2015\Projects\SHA1Tool\SHA1Tool\bin\Debug\SHA1Tool.exe
+C:\Users\M\Documents\Visual Studio 2015\Projects\SHA1Tool\SHA1Tool\bin\Debug\SHA1Tool.pdb
+C:\Users\M\Documents\Visual Studio 2015\Projects\SHA1Tool\SHA1Tool\obj\Debug\SHA1Tool.csprojResolveAssemblyReference.cache
+C:\Users\M\Documents\Visual Studio 2015\Projects\SHA1Tool\SHA1Tool\obj\Debug\SHA1Tool.Form1.resources
+C:\Users\M\Documents\Visual Studio 2015\Projects\SHA1Tool\SHA1Tool\obj\Debug\SHA1Tool.Properties.Resources.resources
+C:\Users\M\Documents\Visual Studio 2015\Projects\SHA1Tool\SHA1Tool\obj\Debug\SHA1Tool.csproj.GenerateResource.Cache
+C:\Users\M\Documents\Visual Studio 2015\Projects\SHA1Tool\SHA1Tool\obj\Debug\SHA1Tool.exe
+C:\Users\M\Documents\Visual Studio 2015\Projects\SHA1Tool\SHA1Tool\obj\Debug\SHA1Tool.pdb
